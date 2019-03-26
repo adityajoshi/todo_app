@@ -1,2 +1,2 @@
-# todo_app
+# Todo App
 Todo App using python django
